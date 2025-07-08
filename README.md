@@ -38,14 +38,14 @@
 
 <p align="center">
   <a href="https://github.com/Zobiii">
-    <img src="https://github-readme-stats.vercel.app/api?username=iamshiron&count_private=true&show_icons=true&theme=tokyonight" alt="Shiron's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Zobiii&count_private=true&show_icons=true&theme=tokyonight" alt="Zobiii's GitHub stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zobiii&theme=tokyonight&layout=compact" alt="Top Langs" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Zobiii">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=iamshiron&theme=tokyonight&border_radius=5&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Zobiii&theme=tokyonight&border_radius=5&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" />
   </a>
 </p>
 
