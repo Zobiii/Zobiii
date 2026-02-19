@@ -1,40 +1,38 @@
-# Hey, ich bin Tobe 👋
+# Hey, ich bin Tobe (aka Zobiii) 👋
 
-**Radiologietechnologe** 🩻 mit technischem Hintergrund – leidenschaftlich interessiert an moderner Bildgebung und digitalen Lösungen im Gesundheitswesen.
+Schön, dass du hier bist.  
+Ich bin Radiologietechnologe mit Mechatronik-Background und habe Spaß daran, Medizin + Technik praktisch zusammenzubringen.
 
----
+## Was ich so mache
 
-## 💼 Beruflich & Technisch
+- Alltag in Röntgen, CT, MRT und Intervention
+- Arbeiten mit PACS, DICOM und digitalen Bildprozessen
+- Tüfteln an Lösungen für Analyse, Visualisierung und Automatisierung
 
-🎓 **Radiologietechnologe (RT)**  
-⚙️ **Mechatronik-Matura** – fundierte Kenntnisse in Maschinensteuerung und industrieller Automatisierung  
-🔧 Erfahrung in:
-- C++, C#
-- Visualisierung
-- Siemens (TIA Portal) & B&R Automation Studio
-
-🏥 Praxis in Röntgen, CT, MRT & Intervention  
-💻 PACS, DICOM & Bildanalysesysteme
-
----
-
-## 💡 Interessen
-
-- 🧠 Medizinische Bildverarbeitung & KI
-- 🧰 Automatisierung & Workflow-Optimierung
-- 📚 Kontinuierliche Weiterbildung
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Siemens TIA Portal](https://img.shields.io/badge/Siemens-TIA%20Portal-009999?style=for-the-badge)
+![B&R Automation Studio](https://img.shields.io/badge/B%26R-Automation%20Studio-FF6600?style=for-the-badge)
 
----
+## KI & ChatGPT in meinem Workflow
 
-### 📊 My GitHub Stats
+ChatGPT ist bei mir ein fester Teil im Workflow, z. B. für:
+
+- Ideen und schnelle Architektur-Skizzen
+- Prototyping in C#, C++ und Python
+- Refactoring, Debugging und Doku
+- Lernen rund um medizinische IT, Bildanalyse und Automatisierung
+
+## Was mich aktuell besonders interessiert
+
+- Medizinische Bildverarbeitung & KI
+- Workflow-Optimierung im klinischen Alltag
+- Die Brücke zwischen Healthcare und Engineering
+
+### My GitHub Stats
 
 <p align="center">
   <a href="https://github.com/Zobiii">
@@ -49,6 +47,4 @@
   </a>
 </p>
 
----
-
-> 🧭 *„Technik verstehen heißt Prozesse verbessern – in der Industrie wie in der Radiologie.“*
+> "Technik verstehen heißt Prozesse verbessern - in der Industrie wie in der Radiologie."
